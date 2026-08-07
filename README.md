@@ -1,1 +1,5 @@
-# Repo1
+This is my Git practical practice.
+
+SRUSHTI
+===
+
